@@ -1,8 +1,8 @@
 package com.example;
 
 public class HelloGit {
-	private void sysout() {
-		// TODO Auto-generated method stub
-		System.out.println("나는 팀원이다");
+
+	public static void main(String[] args) {
+	System.out.println("팀원1입니다.");	
 	}
 }
